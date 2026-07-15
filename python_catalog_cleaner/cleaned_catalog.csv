@@ -1,0 +1,674 @@
+sku_id,brand,category,color,season,price_inr,discount_pct,effective_price_inr,rating,num_ratings,deal_score
+SKU2181,H&M,Jacket,Black,Summer,490.05,60.0,196.02,4.8,4681,124.04
+SKU1765,Only,Formal Shirt,Olive,Winter,1372.55,60.0,549.02,4.9,732,122.51
+SKU2059,And,Skirt,Yellow,Monsoon,781.22,50.0,390.61,5.0,3024,121.09
+SKU1468,Nike,T-Shirt,Red,Monsoon,1822.78,60.0,729.11,4.9,2365,120.71
+SKU1180,Roadster,Jacket,Beige,All-Season,1103.65,50.0,551.83,5.0,3060,119.48
+SKU1885,Bewakoof,Jacket,Pink,Winter,1309.23,60.0,523.69,4.7,2302,118.76
+SKU1249,Vero Moda,T-Shirt,Blue,Monsoon,1006.12,60.0,402.45,4.6,3447,117.98
+SKU1036,Forever 21,Jacket,Blue,All-Season,720.88,50.0,360.44,4.8,2571,117.4
+SKU1781,Mango,Dress,White,Monsoon,691.09,60.0,276.44,4.5,1514,117.24
+SKU1593,Puma,Dress,Black,Monsoon,570.94,50.0,285.47,4.7,4653,116.15
+SKU2106,Biba,Skirt,White,All-Season,515.95,60.0,206.38,4.4,1708,115.94
+SKU1839,Biba,Jeans,Black,Monsoon,2058.95,60.0,823.58,4.7,1141,115.76
+SKU1988,And,T-Shirt,Olive,Winter,3096.18,60.0,1238.47,4.9,1602,115.62
+SKU1706,Levis,Jeans,Black,Winter,2142.04,60.0,856.82,4.7,2772,115.43
+SKU1507,Bewakoof,Sneakers,Pink,Monsoon,1169.54,50.0,584.77,4.8,2490,115.15
+SKU1822,And,Co-Ord Set,Blue,Monsoon,781.93,50.0,390.96,4.7,2163,115.09
+SKU1535,Nike,Dress,Grey,All-Season,1210.09,50.0,605.04,4.8,442,114.95
+SKU1415,Levis,Jeans,Red,Winter,2775.41,60.0,1110.16,4.8,2227,114.9
+SKU2120,Only,Skirt,Blue,Winter,3291.08,60.0,1316.43,4.9,3323,114.84
+SKU1122,Only,Formal Shirt,Beige,Summer,2471.41,60.0,988.56,4.7,2813,114.11
+SKU1344,Adidas,Formal Shirt,Olive,All-Season,1491.94,60.0,596.78,4.5,2356,114.03
+SKU1083,Adidas,Formal Shirt,Black,Summer,1478.94,50.0,739.47,4.8,1863,113.61
+SKU1662,Mango,Jacket,Blue,Monsoon,1707.86,60.0,683.14,4.5,4692,113.17
+SKU1316,Vero Moda,Co-Ord Set,Yellow,Monsoon,2393.86,50.0,1196.93,5.0,2807,113.03
+SKU1537,Mango,Co-Ord Set,Blue,All-Season,1313.26,50.0,656.63,4.7,1884,112.43
+SKU1019,Levis,Skirt,Olive,Summer,2437.4,60.0,974.96,4.6,802,112.25
+SKU1088,Levis,T-Shirt,Red,Monsoon,436.25,60.0,174.5,4.2,401,112.25
+SKU1202,Urbanic,Formal Shirt,Pink,Monsoon,477.86,60.0,191.14,4.2,3527,112.09
+SKU1558,Vero Moda,Sneakers,Pink,All-Season,4520.5,60.0,1808.2,5.0,4699,111.92
+SKU1771,And,Skirt,Beige,Monsoon,1070.01,50.0,535.0,4.6,281,111.65
+SKU1908,Zara,Formal Shirt,Maroon,All-Season,3798.82,60.0,1519.53,4.8,1954,110.8
+SKU1200,Vero Moda,Skirt,Beige,Summer,2809.14,60.0,1123.66,4.6,397,110.76
+SKU1055,Adidas,Skirt,Beige,All-Season,1209.23,40.0,725.54,4.9,2212,110.74
+SKU1615,And,Jacket,White,All-Season,1311.02,50.0,655.51,4.6,407,110.44
+SKU1972,Adidas,Co-Ord Set,Pink,Winter,1910.95,60.0,764.38,4.4,2965,110.36
+SKU1099,Mango,Jacket,Olive,Monsoon,3961.1,60.0,1584.44,4.8,23,110.16
+SKU1150,Nike,Formal Shirt,Beige,Summer,701.44,30.0,491.01,5.0,3921,110.09
+SKU1030,Zara,T-Shirt,Pink,Monsoon,4534.31,60.0,1813.72,4.9,326,109.86
+SKU2042,Bewakoof,Formal Shirt,White,Monsoon,2645.22,50.0,1322.61,4.9,220,109.77
+SKU1772,Adidas,Co-Ord Set,Grey,Winter,2676.12,50.0,1338.06,4.9,481,109.62
+SKU1128,Zara,Co-Ord Set,Red,Winter,1145.34,60.0,458.14,4.2,1356,109.42
+SKU1013,Puma,Kurta,Olive,Summer,1507.01,40.0,904.21,4.9,701,108.96
+SKU1352,H&M,Hoodie,Pink,Monsoon,512.65,40.0,307.59,4.6,3071,108.92
+SKU1056,Adidas,Co-Ord Set,Pink,Monsoon,4316.88,60.0,1726.75,4.8,2284,108.73
+SKU1005,H&M,Jacket,White,All-Season,1677.68,50.0,838.84,4.6,1332,108.61
+SKU1371,Mango,Dress,Red,All-Season,2079.37,50.0,1039.68,4.7,637,108.6
+SKU1010,Bewakoof,Co-Ord Set,Grey,Monsoon,4865.96,60.0,1946.38,4.9,938,108.54
+SKU1124,Puma,Jeans,Yellow,All-Season,1706.08,50.0,853.04,4.6,4937,108.47
+SKU1874,Urbanic,Dress,Blue,Monsoon,1940.41,40.0,1164.25,5.0,1981,108.36
+SKU2186,Adidas,Co-Ord Set,Blue,All-Season,2920.75,60.0,1168.3,4.5,3070,108.32
+SKU1402,Urbanic,Dress,Red,All-Season,1017.57,60.0,407.03,4.1,4374,107.93
+SKU1966,Forever 21,Kurta,Pink,Summer,3519.58,60.0,1407.83,4.6,4427,107.92
+SKU1759,Urbanic,Jeans,Olive,Summer,2127.06,40.0,1276.24,5.0,2177,107.24
+SKU1673,Urbanic,Kurta,Olive,Winter,4215.58,60.0,1686.23,4.7,3639,107.14
+SKU1021,Nike,Skirt,Pink,All-Season,3603.32,50.0,1801.66,5.0,4552,106.98
+SKU1011,H&M,Kurta,Red,Winter,2486.13,50.0,1243.07,4.7,2157,106.57
+SKU1420,Nike,Skirt,Olive,Summer,1315.23,50.0,657.62,4.4,4269,106.42
+SKU2147,Urbanic,Co-Ord Set,Grey,All-Season,2305.82,40.0,1383.49,5.0,1574,106.17
+SKU1400,Puma,Dress,Grey,All-Season,1367.45,50.0,683.73,4.4,2990,106.16
+SKU1440,Mango,Jeans,Maroon,Monsoon,570.91,60.0,228.36,3.9,642,105.72
+SKU1658,Vero Moda,Co-Ord Set,Maroon,All-Season,3607.37,60.0,1442.95,4.5,3313,105.57
+SKU1703,Roadster,Jacket,Grey,Winter,1498.49,50.0,749.25,4.4,2715,105.51
+SKU1442,Mango,Dress,Blue,Winter,1103.71,50.0,551.86,4.3,3218,105.48
+SKU1499,Adidas,Dress,Pink,Summer,2097.43,40.0,1258.46,4.9,6,105.42
+SKU1744,Zara,Jacket,Beige,Summer,1197.91,40.0,718.75,4.6,1674,104.81
+SKU2134,Forever 21,Hoodie,Red,Summer,3334.08,60.0,1333.63,4.4,2259,104.66
+SKU1354,Roadster,Hoodie,White,Winter,2872.67,50.0,1436.34,4.7,3565,104.64
+SKU1716,Nike,Hoodie,Red,Summer,2570.22,40.0,1542.13,5.0,1222,104.58
+SKU1259,Urbanic,Hoodie,White,All-Season,4382.75,60.0,1753.1,4.6,2681,104.47
+SKU1855,Forever 21,Skirt,Pink,All-Season,4900.03,60.0,1960.01,4.7,1150,104.4
+SKU1739,And,Sneakers,Grey,Summer,1940.48,40.0,1164.29,4.8,3677,104.36
+SKU1614,Roadster,Jeans,Red,Monsoon,1235.69,30.0,864.98,4.9,4672,104.35
+SKU2004,Only,Co-Ord Set,White,Monsoon,1928.2,60.0,771.28,4.1,685,104.29
+SKU1750,Biba,Jeans,Red,Winter,1292.45,30.0,904.71,4.9,2855,103.95
+SKU1829,Forever 21,Sneakers,White,Winter,1039.46,60.0,415.78,3.9,3639,103.84
+SKU1384,Vero Moda,Skirt,Pink,Monsoon,3056.2,60.0,1222.48,4.3,1131,103.78
+SKU1975,Bewakoof,Hoodie,Yellow,Winter,3048.65,50.0,1524.33,4.7,1622,103.76
+SKU1532,And,Co-Ord Set,Pink,All-Season,3589.12,60.0,1435.65,4.4,1039,103.64
+SKU1014,Zara,Dress,Grey,Winter,1618.26,60.0,647.3,4.0,1735,103.53
+SKU1026,H&M,Jacket,Blue,Monsoon,1124.64,60.0,449.86,3.9,2478,103.5
+SKU1465,Only,T-Shirt,Beige,All-Season,3114.45,50.0,1557.22,4.7,3724,103.43
+SKU1218,Roadster,Skirt,Pink,Summer,4166.24,60.0,1666.5,4.5,4090,103.34
+SKU1633,Zara,Hoodie,Red,Summer,585.02,20.0,468.02,4.9,1836,103.32
+SKU1436,Puma,Co-Ord Set,Olive,Winter,2124.29,40.0,1274.57,4.8,2081,103.25
+SKU1191,Biba,Dress,Red,All-Season,614.67,20.0,491.74,4.9,3122,103.08
+SKU1987,And,Jeans,Blue,Summer,2392.54,50.0,1196.27,4.5,2601,103.04
+SKU2090,Puma,Dress,Pink,Monsoon,3741.86,60.0,1496.74,4.4,3684,103.03
+SKU1278,Puma,Dress,Blue,Summer,499.8,40.0,299.88,4.3,1160,103.0
+SKU1350,And,Sneakers,Blue,Monsoon,1749.44,60.0,699.78,4.0,3890,103.0
+SKU2079,Only,Skirt,Maroon,Summer,4262.89,60.0,1705.16,4.5,4293,102.95
+SKU1577,Forever 21,Co-Ord Set,Olive,Summer,854.89,40.0,512.93,4.4,4332,102.87
+SKU2048,Nike,Hoodie,White,Winter,431.0,50.0,215.5,4.0,1618,102.84
+SKU1121,Adidas,Jeans,Maroon,All-Season,2527.47,40.0,1516.48,4.9,336,102.84
+SKU1260,Nike,Kurta,Maroon,Winter,2533.06,40.0,1519.84,4.9,1600,102.8
+SKU1399,Urbanic,Jacket,Red,Summer,1896.01,40.0,1137.61,4.7,1533,102.62
+SKU1754,Mango,Kurta,Red,Summer,901.66,40.0,541.0,4.4,2821,102.59
+SKU1657,Adidas,Kurta,Blue,Monsoon,435.35,20.0,348.28,4.8,5000,102.52
+SKU2105,Puma,Jacket,Olive,Winter,1792.48,30.0,1254.74,5.0,1908,102.45
+SKU1756,Puma,Dress,Beige,Winter,2636.77,40.0,1582.06,4.9,3691,102.18
+SKU2080,And,Jeans,Blue,Summer,1647.78,40.0,988.67,4.6,4405,102.11
+SKU1870,And,Kurta,Maroon,Summer,4977.67,60.0,1991.07,4.6,734,102.09
+SKU1252,Nike,Dress,Yellow,Monsoon,2196.36,50.0,1098.18,4.4,541,102.02
+SKU1398,Vero Moda,T-Shirt,Yellow,Monsoon,2210.1,50.0,1105.05,4.4,3745,101.95
+SKU1280,Puma,Dress,Yellow,Monsoon,1425.89,40.0,855.53,4.5,3099,101.44
+SKU2023,Adidas,Formal Shirt,White,Summer,2098.86,40.0,1259.32,4.7,1254,101.41
+SKU1182,Roadster,Co-Ord Set,Yellow,Winter,1155.87,60.0,462.35,3.8,952,101.38
+SKU1880,Zara,Kurta,Pink,Winter,825.77,30.0,578.04,4.6,1703,101.22
+SKU1805,Puma,T-Shirt,Beige,Winter,4761.53,50.0,2380.76,5.0,973,101.19
+SKU1550,And,Formal Shirt,Pink,All-Season,3255.38,60.0,1302.15,4.2,537,100.98
+SKU2133,Only,Kurta,Olive,Summer,806.44,50.0,403.22,4.0,4907,100.97
+SKU1641,Roadster,Hoodie,Yellow,Winter,795.03,60.0,318.01,3.7,3882,100.82
+SKU1698,Puma,Co-Ord Set,Olive,Summer,871.37,40.0,522.82,4.3,4856,100.77
+SKU2188,Urbanic,Jacket,Red,Winter,1656.27,50.0,828.13,4.2,1276,100.72
+SKU1093,Urbanic,Kurta,Yellow,Summer,2491.02,50.0,1245.51,4.4,2147,100.54
+SKU2135,Levis,Sneakers,White,Summer,864.2,60.0,345.68,3.7,4798,100.54
+SKU1460,Forever 21,Jacket,Olive,Summer,1213.56,30.0,849.49,4.7,4013,100.51
+SKU1025,Puma,Jeans,Black,All-Season,3256.33,40.0,1953.8,5.0,600,100.46
+SKU1995,And,T-Shirt,Pink,All-Season,2284.13,40.0,1370.48,4.7,4391,100.3
+SKU2056,Urbanic,Hoodie,Beige,Monsoon,1627.45,40.0,976.47,4.5,2606,100.24
+SKU1762,Bewakoof,Jacket,Black,Monsoon,475.5,20.0,380.4,4.7,2666,100.2
+SKU2027,Levis,Formal Shirt,Blue,Summer,1969.68,40.0,1181.81,4.6,705,100.18
+SKU1216,Puma,Co-Ord Set,Olive,All-Season,1844.24,30.0,1290.97,4.9,2387,100.09
+SKU1448,Urbanic,Sneakers,Olive,Winter,1336.49,40.0,801.89,4.4,4495,99.98
+SKU2157,Zara,Kurta,Red,Winter,1441.54,50.0,720.77,4.1,2782,99.79
+SKU1607,Biba,Co-Ord Set,Black,Summer,3576.14,60.0,1430.46,4.2,2072,99.7
+SKU1543,Nike,Jeans,Grey,All-Season,1505.35,40.0,903.21,4.4,3331,98.97
+SKU2040,Urbanic,Skirt,Beige,Monsoon,858.6,40.0,515.16,4.2,1740,98.85
+SKU1902,Roadster,Jeans,Pink,All-Season,1154.3,20.0,923.44,4.9,4728,98.77
+SKU1067,Levis,T-Shirt,Olive,Monsoon,3651.0,50.0,1825.5,4.6,583,98.75
+SKU1327,Mango,Hoodie,Blue,Summer,4366.85,60.0,1746.74,4.3,1070,98.53
+SKU1490,Puma,Jacket,Yellow,Summer,4877.94,60.0,1951.18,4.4,4651,98.49
+SKU2153,Roadster,Skirt,Pink,Monsoon,1919.45,40.0,1151.67,4.5,4161,98.48
+SKU2114,Adidas,Dress,Red,Summer,2880.58,60.0,1152.23,4.0,4302,98.48
+SKU1039,Vero Moda,Skirt,Beige,Summer,1704.42,50.0,852.21,4.1,2745,98.48
+SKU1816,Vero Moda,Dress,Black,Winter,1280.85,40.0,768.51,4.3,4590,98.31
+SKU1380,Puma,T-Shirt,Yellow,All-Season,1454.64,60.0,581.86,3.7,3123,98.18
+SKU1818,Mango,T-Shirt,Olive,All-Season,2676.12,40.0,1605.67,4.7,614,97.94
+SKU1358,Urbanic,Skirt,Beige,Winter,1026.35,30.0,718.44,4.5,4470,97.82
+SKU1087,Bewakoof,Kurta,Grey,Monsoon,1315.4,30.0,920.78,4.6,873,97.79
+SKU1947,Zara,Jacket,Yellow,Monsoon,4650.2,50.0,2325.1,4.8,510,97.75
+SKU1730,And,Skirt,Grey,All-Season,712.89,40.0,427.73,4.1,3585,97.72
+SKU2010,Biba,Sneakers,Maroon,Winter,1049.98,40.0,629.99,4.2,3041,97.7
+SKU1199,Roadster,Skirt,Yellow,Monsoon,1582.7,60.0,633.08,3.7,4018,97.67
+SKU1741,Zara,Hoodie,Olive,Summer,1494.09,50.0,747.04,4.0,3635,97.53
+SKU1299,Puma,T-Shirt,Yellow,Winter,700.84,50.0,350.42,3.8,1111,97.5
+SKU1731,Urbanic,Co-Ord Set,White,Winter,1752.07,40.0,1051.24,4.4,1379,97.49
+SKU1578,Vero Moda,T-Shirt,White,Winter,4633.2,60.0,1853.28,4.3,3002,97.47
+SKU1856,Levis,Hoodie,Red,Winter,2426.81,40.0,1456.09,4.6,2569,97.44
+SKU1923,Zara,Formal Shirt,Grey,Monsoon,2716.55,50.0,1358.28,4.3,3836,97.42
+SKU1133,Puma,Jacket,Black,Monsoon,4680.8,60.0,1872.32,4.3,2746,97.28
+SKU2155,Roadster,Co-Ord Set,Beige,Winter,534.64,30.0,374.25,4.3,2718,97.26
+SKU1085,Mango,Dress,Beige,Winter,762.25,60.0,304.9,3.5,1972,96.95
+SKU1582,Urbanic,Skirt,White,All-Season,2414.07,50.0,1207.04,4.2,976,96.93
+SKU1297,Adidas,Kurta,Pink,Monsoon,4276.09,60.0,1710.44,4.2,804,96.9
+SKU1917,Urbanic,Skirt,Beige,All-Season,3531.25,40.0,2118.75,4.9,4572,96.81
+SKU2150,Roadster,Sneakers,Yellow,Winter,2539.32,40.0,1523.59,4.6,3770,96.76
+SKU2096,Vero Moda,Jeans,Grey,Winter,1907.07,40.0,1144.24,4.4,2135,96.56
+SKU1584,Forever 21,Co-Ord Set,Maroon,Monsoon,3877.99,60.0,1551.2,4.1,3278,96.49
+SKU1955,Forever 21,Formal Shirt,Yellow,Summer,647.39,30.0,453.17,4.3,3983,96.47
+SKU1332,H&M,Skirt,Grey,Monsoon,945.05,30.0,661.53,4.4,145,96.38
+SKU1936,And,Formal Shirt,Pink,Winter,3608.74,40.0,2165.24,4.9,2851,96.35
+SKU1185,Urbanic,Kurta,Red,Winter,3936.27,60.0,1574.51,4.1,3443,96.25
+SKU1281,Forever 21,Co-Ord Set,Red,Summer,1236.58,20.0,989.26,4.8,1809,96.11
+SKU1817,Biba,Hoodie,White,All-Season,2326.42,40.0,1395.85,4.5,1367,96.04
+SKU1685,H&M,Jeans,Yellow,Summer,4504.83,60.0,1801.93,4.2,1011,95.98
+SKU1650,Nike,T-Shirt,Yellow,Monsoon,4522.06,60.0,1808.82,4.2,4222,95.91
+SKU1655,Urbanic,Skirt,Beige,Summer,3700.08,40.0,2220.05,4.9,694,95.8
+SKU1467,Zara,Hoodie,Yellow,All-Season,600.97,10.0,540.87,4.8,4632,95.59
+SKU1510,Nike,Dress,Pink,Winter,2629.63,60.0,1051.85,3.8,271,95.48
+SKU1677,Roadster,Co-Ord Set,Maroon,Winter,2666.71,60.0,1066.68,3.8,942,95.33
+SKU1179,Urbanic,Jeans,Grey,Monsoon,1133.7,50.0,566.85,3.8,2547,95.33
+SKU2168,Urbanic,Hoodie,Yellow,Winter,2739.23,50.0,1369.62,4.2,1757,95.3
+SKU1792,Levis,Co-Ord Set,White,Summer,1184.44,60.0,473.78,3.5,2827,95.26
+SKU2192,Bewakoof,Jeans,Yellow,All-Season,1127.09,40.0,676.25,4.1,2303,95.24
+SKU1144,Urbanic,Jeans,Red,Monsoon,2759.2,50.0,1379.6,4.2,255,95.2
+SKU2013,And,T-Shirt,Olive,Monsoon,1706.26,60.0,682.5,3.6,2504,95.17
+SKU1713,Bewakoof,Skirt,Grey,All-Season,2280.18,60.0,912.07,3.7,2236,94.88
+SKU1308,And,Skirt,Blue,Monsoon,4287.93,60.0,1715.17,4.1,4573,94.85
+SKU1349,Puma,Formal Shirt,Olive,Winter,2793.79,60.0,1117.52,3.8,3407,94.82
+SKU1315,Forever 21,Sneakers,Pink,Winter,871.46,40.0,522.88,4.0,1368,94.77
+SKU1339,Biba,Hoodie,Red,Winter,1657.54,20.0,1326.03,4.9,3709,94.74
+SKU1441,Bewakoof,Hoodie,White,Winter,3838.32,60.0,1535.33,4.0,93,94.65
+SKU1455,Vero Moda,Jacket,Beige,Monsoon,3566.25,40.0,2139.75,4.8,3523,94.6
+SKU1396,H&M,Skirt,Maroon,Summer,3914.52,40.0,2348.71,4.9,3950,94.51
+SKU1433,H&M,Jacket,Yellow,All-Season,1270.52,40.0,762.31,4.1,4669,94.38
+SKU1017,Biba,Co-Ord Set,Maroon,All-Season,1516.79,30.0,1061.75,4.5,1559,94.38
+SKU1228,Adidas,Skirt,Maroon,Winter,4142.2,50.0,2071.1,4.5,4834,94.29
+SKU1678,Urbanic,Hoodie,Olive,Summer,1637.13,40.0,982.28,4.2,2017,94.18
+SKU1130,Only,Skirt,Pink,All-Season,2712.37,30.0,1898.66,4.9,1635,94.01
+SKU1489,Bewakoof,T-Shirt,White,All-Season,2201.82,50.0,1100.91,4.0,4855,93.99
+SKU1236,Zara,Sneakers,Pink,Monsoon,3033.58,60.0,1213.43,3.8,780,93.87
+SKU1473,Biba,T-Shirt,White,Monsoon,1883.98,30.0,1318.79,4.6,3500,93.81
+SKU1408,Adidas,T-Shirt,Beige,Winter,3444.3,50.0,1722.15,4.3,655,93.78
+SKU1290,Mango,T-Shirt,Beige,Summer,793.25,20.0,634.6,4.5,3391,93.65
+SKU1273,Vero Moda,T-Shirt,Red,Monsoon,2605.55,60.0,1042.22,3.7,4633,93.58
+SKU1407,Forever 21,Kurta,Maroon,All-Season,1646.74,30.0,1152.72,4.5,2975,93.47
+SKU1835,Biba,Dress,Beige,Monsoon,1078.79,30.0,755.15,4.3,3919,93.45
+SKU1237,Levis,Dress,Beige,Winter,1071.72,20.0,857.38,4.6,3217,93.43
+SKU1761,Adidas,Hoodie,Beige,Summer,3167.78,60.0,1267.11,3.8,2036,93.33
+SKU2093,Levis,Jeans,White,Winter,1136.92,50.0,568.46,3.7,4857,93.32
+SKU1603,Biba,Sneakers,White,All-Season,4737.55,50.0,2368.78,4.6,1933,93.31
+SKU1848,Biba,T-Shirt,Olive,Monsoon,790.18,40.0,474.11,3.9,4618,93.26
+SKU2172,Adidas,Jacket,Grey,Monsoon,3159.6,50.0,1579.8,4.2,342,93.2
+SKU1793,Biba,Hoodie,Grey,Winter,1590.68,50.0,795.34,3.8,1273,93.05
+SKU1472,Bewakoof,Dress,Beige,Monsoon,3210.01,50.0,1605.01,4.2,4688,92.95
+SKU1994,Vero Moda,Sneakers,Pink,Monsoon,2290.65,60.0,916.26,3.6,3265,92.84
+SKU1625,Biba,Skirt,Black,All-Season,2038.99,50.0,1019.5,3.9,3749,92.81
+SKU1727,Bewakoof,T-Shirt,Olive,Winter,1658.37,50.0,829.18,3.8,546,92.71
+SKU1435,Vero Moda,Co-Ord Set,Grey,Monsoon,4550.43,40.0,2730.26,5.0,2659,92.7
+SKU2019,Vero Moda,Skirt,Grey,Monsoon,3551.69,40.0,2131.01,4.7,2852,92.69
+SKU1453,Levis,Hoodie,Black,Monsoon,1436.68,20.0,1149.34,4.7,1124,92.51
+SKU1255,Bewakoof,Kurta,Yellow,Summer,1608.57,40.0,965.14,4.1,4064,92.35
+SKU1617,Adidas,Kurta,Pink,All-Season,2156.54,30.0,1509.58,4.6,4915,91.9
+SKU1287,Roadster,Jeans,Black,All-Season,3029.14,60.0,1211.66,3.7,446,91.88
+SKU1454,And,Jacket,Red,Winter,3034.33,30.0,2124.03,4.9,4959,91.76
+SKU1785,Vero Moda,Kurta,Yellow,All-Season,1042.33,30.0,729.63,4.2,4281,91.7
+SKU1190,Mango,Sneakers,Maroon,Monsoon,1488.76,10.0,1339.88,5.0,4270,91.6
+SKU1071,Mango,T-Shirt,Beige,All-Season,2786.23,30.0,1950.36,4.8,1486,91.5
+SKU2086,Only,Jeans,Beige,All-Season,428.98,40.0,257.39,3.7,1336,91.43
+SKU1927,And,Formal Shirt,Black,Winter,2773.81,40.0,1664.29,4.4,4057,91.36
+SKU1251,Nike,Hoodie,Red,All-Season,778.17,40.0,466.9,3.8,1250,91.33
+SKU1184,Adidas,T-Shirt,Olive,Summer,607.33,20.0,485.86,4.3,4433,91.14
+SKU1061,Roadster,Jacket,Grey,Monsoon,3732.09,60.0,1492.84,3.8,2318,91.07
+SKU1058,Levis,Formal Shirt,Black,Winter,792.82,50.0,396.41,3.5,4548,91.04
+SKU1799,Puma,T-Shirt,Red,All-Season,2142.84,20.0,1714.27,4.9,2768,90.86
+SKU1247,Zara,Jacket,Pink,Summer,1540.57,40.0,924.34,4.0,4977,90.76
+SKU1867,Mango,Hoodie,Olive,Monsoon,1363.91,10.0,1227.52,4.9,4725,90.72
+SKU1040,Nike,Jacket,Beige,Summer,611.58,30.0,428.11,4.0,596,90.72
+SKU1511,Zara,Skirt,Red,All-Season,1493.56,30.0,1045.49,4.3,1370,90.55
+SKU1656,Bewakoof,T-Shirt,Beige,Summer,4896.57,50.0,2448.28,4.5,4258,90.52
+SKU1300,Biba,Jacket,Black,Winter,551.13,0.0,551.13,4.8,1631,90.49
+SKU2037,Mango,T-Shirt,Beige,Winter,4641.83,40.0,2785.1,4.9,4293,90.15
+SKU1131,Adidas,Sneakers,Yellow,Summer,3671.44,40.0,2202.86,4.6,2335,89.97
+SKU1589,Levis,Dress,Grey,All-Season,1017.65,50.0,508.82,3.5,896,89.91
+SKU2065,And,T-Shirt,Maroon,Winter,1036.43,40.0,621.86,3.8,659,89.78
+SKU2098,And,Kurta,Pink,Summer,1044.24,50.0,522.12,3.5,3246,89.78
+SKU1659,Bewakoof,Dress,Yellow,Monsoon,1382.18,40.0,829.31,3.9,4270,89.71
+SKU1538,Adidas,Jacket,Red,Winter,737.24,40.0,442.34,3.7,3570,89.58
+SKU1623,Levis,Kurta,Maroon,Monsoon,2777.07,30.0,1943.95,4.7,2584,89.56
+SKU1155,Roadster,Co-Ord Set,Red,Summer,2689.98,50.0,1344.99,3.9,2474,89.55
+SKU2057,Mango,Kurta,Maroon,All-Season,3103.41,50.0,1551.7,4.0,4435,89.48
+SKU1620,Urbanic,T-Shirt,Blue,Winter,2565.29,20.0,2052.23,5.0,4900,89.48
+SKU2077,Zara,Sneakers,Beige,Monsoon,2806.35,30.0,1964.44,4.7,3975,89.36
+SKU1942,Vero Moda,Jeans,Blue,Winter,3537.86,50.0,1768.93,4.1,4064,89.31
+SKU2115,Bewakoof,Jeans,White,All-Season,2535.39,30.0,1774.77,4.6,4396,89.25
+SKU1913,Mango,Skirt,White,Monsoon,3553.61,50.0,1776.81,4.1,1211,89.23
+SKU1616,Puma,Dress,Maroon,Summer,463.93,40.0,278.36,3.6,3716,89.22
+SKU1115,H&M,Hoodie,Black,All-Season,485.21,0.0,485.21,4.7,4716,89.15
+SKU1181,And,Jacket,Olive,Summer,2816.33,40.0,1689.8,4.3,639,89.1
+SKU1446,Urbanic,Kurta,Beige,Monsoon,3233.62,60.0,1293.45,3.6,1194,89.07
+SKU1167,Roadster,Hoodie,Yellow,All-Season,4413.96,50.0,2206.98,4.3,1131,88.93
+SKU1990,Zara,T-Shirt,Red,Monsoon,3220.54,50.0,1610.27,4.0,2856,88.9
+SKU1239,Adidas,Jeans,Grey,Monsoon,4309.49,60.0,1723.8,3.8,1784,88.76
+SKU2006,Forever 21,Sneakers,Beige,Summer,1877.64,40.0,1126.58,4.0,45,88.73
+SKU1004,Biba,Hoodie,White,Monsoon,4214.26,40.0,2528.56,4.7,2962,88.71
+SKU1779,Nike,Jeans,Grey,All-Season,1664.99,50.0,832.5,3.6,95,88.68
+SKU1351,And,Sneakers,Grey,Winter,4559.68,40.0,2735.81,4.8,1997,88.64
+SKU1622,Vero Moda,Hoodie,Beige,Monsoon,936.47,0.0,936.47,4.9,4089,88.64
+SKU2071,Levis,Hoodie,Black,Monsoon,2236.38,40.0,1341.83,4.1,3604,88.58
+SKU1051,Roadster,T-Shirt,Maroon,Winter,1496.31,30.0,1047.42,4.2,4620,88.53
+SKU1954,Roadster,Skirt,Blue,Winter,2439.29,20.0,1951.43,4.9,4517,88.49
+SKU1078,Biba,Formal Shirt,Pink,Summer,1700.06,20.0,1360.05,4.6,4750,88.4
+SKU1355,Only,Sneakers,Black,Summer,735.94,10.0,662.35,4.5,4571,88.38
+SKU1416,Adidas,Jeans,Beige,Winter,1731.14,50.0,865.57,3.6,3709,88.34
+SKU2029,Roadster,Kurta,Olive,Winter,1827.24,30.0,1279.07,4.3,1458,88.21
+SKU1695,Only,Jeans,Grey,Summer,792.46,0.0,792.46,4.8,3091,88.08
+SKU1849,Puma,Kurta,Red,Winter,1845.57,30.0,1291.9,4.3,1061,88.08
+SKU1940,Mango,Formal Shirt,Olive,Winter,1560.48,30.0,1092.34,4.2,1847,88.08
+SKU1646,And,Sneakers,Maroon,All-Season,1002.33,20.0,801.86,4.3,3197,87.98
+SKU1207,H&M,Kurta,Beige,Winter,3005.8,60.0,1202.32,3.5,4428,87.98
+SKU1740,Urbanic,Jacket,Black,Summer,1819.7,50.0,909.85,3.6,1995,87.9
+SKU1275,Levis,Formal Shirt,Black,Winter,3047.18,60.0,1218.87,3.5,1423,87.81
+SKU1360,Biba,Sneakers,Olive,All-Season,4564.89,60.0,1825.96,3.8,1318,87.74
+SKU1903,Roadster,T-Shirt,Grey,Winter,1626.08,30.0,1138.26,4.2,3708,87.62
+SKU1697,Nike,Hoodie,Olive,Summer,2484.69,30.0,1739.28,4.5,829,87.61
+SKU1567,Biba,Jacket,Black,Summer,3916.7,30.0,2741.69,5.0,546,87.58
+SKU1992,Nike,Kurta,Red,All-Season,1895.83,50.0,947.91,3.6,1443,87.52
+SKU1834,Adidas,Kurta,Blue,Summer,1646.03,30.0,1152.22,4.2,2174,87.48
+SKU1767,Puma,Jacket,Maroon,Summer,3361.34,30.0,2352.94,4.8,3126,87.47
+SKU1159,Only,Skirt,Pink,All-Season,505.61,30.0,353.93,3.8,1972,87.46
+SKU1869,H&M,Dress,Grey,All-Season,2115.36,40.0,1269.22,4.0,4446,87.31
+SKU1092,Only,Jeans,Beige,Winter,4355.65,50.0,2177.82,4.2,3255,87.22
+SKU1557,Vero Moda,Kurta,White,Summer,2259.99,30.0,1581.99,4.4,3752,87.18
+SKU2196,H&M,Sneakers,Maroon,All-Season,472.4,40.0,283.44,3.5,1384,87.17
+SKU2182,Forever 21,Jacket,Grey,Monsoon,1986.67,50.0,993.34,3.6,1254,87.07
+SKU1552,Bewakoof,Formal Shirt,Beige,All-Season,1993.82,30.0,1395.67,4.3,175,87.04
+SKU1391,H&M,Formal Shirt,Pink,Monsoon,4755.27,60.0,1902.11,3.8,2111,86.98
+SKU1322,Adidas,Co-Ord Set,Grey,Winter,4766.45,60.0,1906.58,3.8,829,86.93
+SKU2107,Bewakoof,Co-Ord Set,White,Summer,4857.52,40.0,2914.51,4.8,4231,86.85
+SKU1846,And,Hoodie,Red,Winter,650.49,20.0,520.39,4.1,1595,86.8
+SKU1937,Forever 21,Dress,Olive,Summer,3459.2,30.0,2421.44,4.8,3902,86.79
+SKU1876,Forever 21,Dress,Yellow,Summer,3303.63,60.0,1321.45,3.5,2131,86.79
+SKU1225,Puma,Formal Shirt,Red,All-Season,1465.54,30.0,1025.88,4.1,1526,86.74
+SKU1689,Mango,Co-Ord Set,Maroon,Winter,699.66,10.0,629.69,4.4,1043,86.7
+SKU1376,Levis,Jeans,Olive,All-Season,3189.02,30.0,2232.31,4.7,1397,86.68
+SKU1861,Nike,Sneakers,Red,All-Season,1380.74,10.0,1242.67,4.7,3464,86.57
+SKU1392,Bewakoof,Co-Ord Set,Grey,Winter,3883.38,60.0,1553.35,3.6,3774,86.47
+SKU1997,H&M,T-Shirt,Yellow,Winter,2064.65,10.0,1858.19,5.0,4388,86.42
+SKU1705,Urbanic,Jacket,Olive,Monsoon,1200.07,20.0,960.06,4.3,2783,86.4
+SKU2089,Zara,Sneakers,Yellow,All-Season,3405.06,60.0,1362.02,3.5,2206,86.38
+SKU1648,Bewakoof,Skirt,Pink,Winter,1362.39,0.0,1362.39,5.0,2939,86.38
+SKU1450,Adidas,Sneakers,White,Summer,1744.48,50.0,872.24,3.5,3118,86.28
+SKU1784,Adidas,T-Shirt,White,Summer,2727.28,20.0,2181.82,4.9,1405,86.18
+SKU1555,Zara,Co-Ord Set,Beige,Monsoon,1237.49,10.0,1113.74,4.6,1257,85.86
+SKU1009,Roadster,Dress,Yellow,All-Season,817.18,0.0,817.18,4.7,1252,85.83
+SKU2109,Bewakoof,Hoodie,Red,Summer,2030.53,20.0,1624.42,4.6,3556,85.76
+SKU1331,Roadster,Sneakers,Pink,Summer,2730.87,40.0,1638.52,4.1,3303,85.61
+SKU1348,Urbanic,Dress,Blue,Summer,3957.84,50.0,1978.92,4.0,2467,85.21
+SKU1769,Adidas,Sneakers,Red,Summer,1828.68,40.0,1097.21,3.8,3179,85.03
+SKU1843,Puma,Skirt,Black,Monsoon,910.83,0.0,910.83,4.7,263,84.89
+SKU1561,Vero Moda,Hoodie,Olive,All-Season,1860.69,40.0,1116.41,3.8,459,84.84
+SKU1003,Roadster,Sneakers,White,Summer,2146.67,20.0,1717.34,4.6,4945,84.83
+SKU1232,Levis,Jacket,Yellow,Monsoon,1172.76,30.0,820.93,3.9,4057,84.79
+SKU1548,Roadster,Dress,Blue,Winter,2881.32,50.0,1440.66,3.7,4752,84.59
+SKU1514,Adidas,Hoodie,Maroon,Monsoon,1939.85,20.0,1551.88,4.5,2091,84.48
+SKU1748,Levis,Hoodie,Yellow,All-Season,729.92,10.0,656.93,4.3,1603,84.43
+SKU1976,Vero Moda,Skirt,White,Winter,4398.51,60.0,1759.4,3.6,1367,84.41
+SKU1414,Roadster,T-Shirt,Yellow,Monsoon,1266.43,40.0,759.86,3.6,2047,84.4
+SKU1796,Mango,T-Shirt,White,Monsoon,2948.13,30.0,2063.69,4.5,87,84.36
+SKU1845,Zara,Jacket,Red,Summer,1405.97,10.0,1265.37,4.6,4581,84.35
+SKU1409,Only,Formal Shirt,Black,Summer,3945.3,40.0,2367.18,4.4,681,84.33
+SKU1933,Only,T-Shirt,Blue,Winter,2551.37,50.0,1275.68,3.6,74,84.24
+SKU1971,And,Formal Shirt,Red,Summer,4297.94,40.0,2578.76,4.5,4973,84.21
+SKU1690,Nike,Kurta,Olive,Summer,4961.98,50.0,2480.99,4.2,2071,84.19
+SKU1424,And,T-Shirt,Black,Monsoon,3364.04,50.0,1682.02,3.8,879,84.18
+SKU2099,Vero Moda,Sneakers,Black,All-Season,4979.01,40.0,2987.41,4.7,2679,84.13
+SKU1283,Levis,Jeans,Black,Summer,2174.31,50.0,1087.15,3.5,1362,84.13
+SKU1079,Puma,Sneakers,Yellow,All-Season,2493.59,20.0,1994.87,4.7,1956,84.05
+SKU2162,Zara,Co-Ord Set,Blue,All-Season,4670.59,40.0,2802.35,4.6,3669,83.98
+SKU2074,Urbanic,Dress,Beige,Monsoon,518.33,20.0,414.66,3.9,2385,83.85
+SKU1434,H&M,Co-Ord Set,Blue,All-Season,3630.73,30.0,2541.51,4.7,1366,83.58
+SKU1077,Roadster,Skirt,Yellow,Winter,2163.5,40.0,1298.1,3.8,1118,83.02
+SKU1639,And,Skirt,Grey,All-Season,4395.39,50.0,2197.7,4.0,3987,83.02
+SKU1431,Puma,Jacket,Maroon,Summer,459.2,10.0,413.28,4.1,655,82.87
+SKU1165,Bewakoof,Co-Ord Set,Pink,Summer,3144.78,20.0,2515.82,4.9,4738,82.84
+SKU1328,H&M,Kurta,Blue,Summer,3640.01,50.0,1820.01,3.8,4723,82.8
+SKU1254,Puma,Formal Shirt,Yellow,Monsoon,1167.03,10.0,1050.33,4.4,2201,82.5
+SKU1631,Levis,Dress,White,Monsoon,2656.89,30.0,1859.82,4.3,2540,82.4
+SKU1288,Mango,Skirt,Olive,Summer,517.38,10.0,465.64,4.1,671,82.34
+SKU1153,Levis,Jacket,Yellow,Monsoon,974.78,20.0,779.82,4.0,765,82.2
+SKU1018,Adidas,T-Shirt,White,Summer,2251.06,20.0,1800.85,4.5,895,81.99
+SKU1763,Nike,Jeans,Blue,All-Season,4718.79,30.0,3303.15,5.0,822,81.97
+SKU1701,Urbanic,Jacket,Yellow,Summer,2340.48,10.0,2106.43,4.9,1648,81.94
+SKU2020,Puma,Hoodie,Olive,Winter,2158.3,10.0,1942.47,4.8,87,81.58
+SKU1790,Bewakoof,Jeans,Blue,Summer,2067.97,20.0,1654.38,4.4,1198,81.46
+SKU1694,Adidas,Kurta,Olive,Summer,2577.45,20.0,2061.96,4.6,2732,81.38
+SKU2035,Nike,T-Shirt,Grey,All-Season,3129.44,50.0,1564.72,3.6,3271,81.35
+SKU1969,Urbanic,Jeans,Maroon,Winter,4115.96,40.0,2469.58,4.3,4163,81.3
+SKU1905,Levis,Jacket,Red,Winter,3131.63,40.0,1878.98,4.0,4248,81.21
+SKU2025,Puma,Sneakers,Beige,Monsoon,2774.17,50.0,1387.09,3.5,503,81.13
+SKU1751,And,Hoodie,Red,Winter,1513.82,0.0,1513.82,4.8,2960,80.86
+SKU1119,Nike,Skirt,Grey,All-Season,3532.21,40.0,2119.33,4.1,2647,80.81
+SKU1665,Only,Hoodie,Grey,All-Season,3764.9,30.0,2635.43,4.6,1182,80.65
+SKU1488,Zara,Kurta,Maroon,Winter,1186.86,20.0,949.49,4.0,2774,80.51
+SKU1525,H&M,Skirt,Olive,Winter,563.21,0.0,563.21,4.3,4857,80.37
+SKU1198,Roadster,Dress,Black,Monsoon,2944.23,40.0,1766.54,3.9,3420,80.33
+SKU2123,Vero Moda,Kurta,Beige,Monsoon,1811.34,30.0,1267.94,3.9,679,80.32
+SKU1282,H&M,Jacket,Blue,Monsoon,1171.28,0.0,1171.28,4.6,2750,80.29
+SKU1086,Only,Kurta,Black,All-Season,4544.56,50.0,2272.28,3.9,605,80.28
+SKU1882,Mango,T-Shirt,White,Monsoon,4970.2,30.0,3479.14,5.0,4915,80.21
+SKU1957,H&M,T-Shirt,Grey,Summer,1642.37,40.0,985.42,3.5,692,80.15
+SKU1871,Nike,Co-Ord Set,Yellow,Summer,3313.22,40.0,1987.93,4.0,267,80.12
+SKU1806,Puma,Hoodie,Yellow,All-Season,1003.52,0.0,1003.52,4.5,1033,79.96
+SKU1340,Vero Moda,Kurta,Yellow,Monsoon,3673.62,40.0,2204.17,4.1,1645,79.96
+SKU1875,Urbanic,Co-Ord Set,Red,Winter,4720.2,30.0,3304.14,4.9,1423,79.96
+SKU1919,Levis,Dress,Blue,Monsoon,4011.21,40.0,2406.73,4.2,4593,79.93
+SKU1138,Forever 21,Jeans,Maroon,Monsoon,1012.68,20.0,810.14,3.9,1434,79.9
+SKU1684,Biba,T-Shirt,Maroon,All-Season,418.68,0.0,418.68,4.2,3384,79.81
+SKU1626,H&M,Jacket,Pink,Winter,4239.79,50.0,2119.89,3.8,2234,79.8
+SKU1606,Puma,Jeans,Blue,All-Season,2583.33,10.0,2325.0,4.9,1187,79.75
+SKU2160,Biba,Dress,Maroon,Monsoon,3039.33,30.0,2127.53,4.3,1454,79.72
+SKU1674,Only,T-Shirt,Blue,All-Season,1229.34,0.0,1229.34,4.6,2599,79.71
+SKU1164,Bewakoof,Co-Ord Set,Pink,Monsoon,2732.65,40.0,1639.59,3.8,4611,79.6
+SKU1782,Nike,Formal Shirt,Grey,Summer,2785.95,40.0,1671.57,3.8,1016,79.28
+SKU1047,Vero Moda,Co-Ord Set,Olive,All-Season,1408.34,30.0,985.84,3.7,3185,79.14
+SKU1600,Puma,Jeans,Olive,All-Season,1626.9,20.0,1301.52,4.1,2100,78.98
+SKU2063,And,Sneakers,Yellow,All-Season,1434.46,30.0,1004.12,3.7,3800,78.96
+SKU1383,Levis,Formal Shirt,Red,Monsoon,3213.65,50.0,1606.83,3.5,1668,78.93
+SKU1362,Puma,Dress,Olive,Summer,1710.63,0.0,1710.63,4.8,2603,78.89
+SKU1220,Nike,Sneakers,Yellow,Summer,902.1,10.0,811.89,4.1,2908,78.88
+SKU1746,H&M,Sneakers,Red,All-Season,1170.72,30.0,819.5,3.6,4992,78.8
+SKU1540,Only,Hoodie,Beige,Monsoon,1410.33,20.0,1128.26,4.0,1392,78.72
+SKU1463,Vero Moda,T-Shirt,Olive,Monsoon,2420.95,20.0,1936.76,4.4,2342,78.63
+SKU1211,Puma,Sneakers,White,Summer,422.9,20.0,338.32,3.6,2209,78.62
+SKU1854,Nike,Jeans,Grey,Summer,2491.12,10.0,2242.01,4.8,1322,78.58
+SKU1826,Forever 21,Dress,Pink,Summer,1825.74,10.0,1643.17,4.5,4979,78.57
+SKU1197,Vero Moda,Skirt,Grey,Summer,4091.96,50.0,2045.98,3.7,2623,78.54
+SKU1284,H&M,Skirt,Maroon,Winter,1147.22,0.0,1147.22,4.5,273,78.53
+SKU1405,Nike,Kurta,Blue,Monsoon,3495.69,30.0,2446.98,4.4,3661,78.53
+SKU1008,Only,Hoodie,Grey,Winter,1617.45,10.0,1455.71,4.4,4415,78.44
+SKU2176,Forever 21,Jeans,Olive,All-Season,3229.48,30.0,2260.64,4.3,3621,78.39
+SKU1524,Nike,Kurta,Olive,Winter,2949.59,30.0,2064.71,4.2,2448,78.35
+SKU1726,Puma,Kurta,Red,Winter,2308.24,10.0,2077.42,4.7,3539,78.23
+SKU1719,Puma,Jacket,Red,All-Season,3553.51,30.0,2487.46,4.4,4404,78.13
+SKU1049,Levis,Hoodie,Blue,Winter,2490.62,20.0,1992.5,4.4,3105,78.08
+SKU1654,Zara,Formal Shirt,Red,Winter,1033.77,30.0,723.64,3.5,3353,77.76
+SKU1924,Biba,Formal Shirt,Black,All-Season,805.77,10.0,725.19,4.0,2477,77.75
+SKU1978,Mango,Jeans,Black,Summer,3797.24,20.0,3037.79,4.9,3349,77.62
+SKU1382,Forever 21,T-Shirt,Maroon,Summer,2789.9,30.0,1952.93,4.1,2587,77.47
+SKU1302,Forever 21,Jeans,Pink,Summer,2177.2,10.0,1959.48,4.6,1755,77.41
+SKU1948,Forever 21,T-Shirt,Blue,Summer,4768.58,40.0,2861.15,4.3,660,77.39
+SKU1001,And,Jeans,Black,Monsoon,1525.5,10.0,1372.95,4.3,4467,77.27
+SKU2108,Mango,Sneakers,Blue,All-Season,1277.51,0.0,1277.51,4.5,2947,77.22
+SKU1214,Levis,Skirt,White,Monsoon,1556.82,10.0,1401.14,4.3,4061,76.99
+SKU1585,Vero Moda,Kurta,Beige,All-Season,895.97,20.0,716.78,3.7,1890,76.83
+SKU1938,Nike,Jacket,White,Winter,3748.55,30.0,2623.99,4.4,3441,76.76
+SKU1587,Nike,Skirt,Grey,Winter,1749.39,30.0,1224.57,3.7,2143,76.75
+SKU1411,Adidas,Skirt,Grey,Monsoon,2922.31,10.0,2630.08,4.9,4417,76.7
+SKU2139,Puma,Jeans,Pink,All-Season,4087.72,50.0,2043.86,3.6,2076,76.56
+SKU1998,Puma,Sneakers,Red,Winter,2942.58,10.0,2648.32,4.9,295,76.52
+SKU1709,Levis,Dress,Yellow,All-Season,1361.49,0.0,1361.49,4.5,531,76.39
+SKU1296,Mango,Co-Ord Set,Red,Summer,2219.65,20.0,1775.72,4.2,403,76.24
+SKU1111,Zara,Sneakers,Pink,Monsoon,3972.44,40.0,2383.46,4.0,430,76.17
+SKU1967,Only,Jeans,Yellow,Summer,1489.1,20.0,1191.28,3.9,3407,76.09
+SKU1669,Urbanic,Hoodie,Grey,Monsoon,3001.51,20.0,2401.21,4.5,3893,75.99
+SKU1935,Nike,Kurta,Red,Summer,4613.34,50.0,2306.67,3.7,3864,75.93
+SKU1571,Puma,Dress,Black,Winter,2782.59,20.0,2226.07,4.4,3375,75.74
+SKU1528,Forever 21,Dress,Black,Winter,3309.24,20.0,2647.39,4.6,797,75.53
+SKU1379,Nike,Jeans,White,All-Season,3432.21,40.0,2059.33,3.8,9,75.41
+SKU2118,Forever 21,Kurta,Blue,All-Season,3473.44,40.0,2084.06,3.8,2185,75.16
+SKU2087,Adidas,Skirt,Blue,Winter,1289.54,0.0,1289.54,4.4,1746,75.1
+SKU1863,Nike,Kurta,Beige,Winter,2005.67,30.0,1403.97,3.7,4386,74.96
+SKU1982,Puma,Kurta,Beige,Summer,1723.08,30.0,1206.16,3.6,1387,74.94
+SKU1837,Puma,Dress,Olive,All-Season,2324.83,30.0,1627.38,3.8,4035,74.73
+SKU2126,Adidas,Co-Ord Set,Olive,Winter,2886.78,40.0,1732.07,3.6,1656,74.68
+SKU1831,Roadster,T-Shirt,Olive,All-Season,2171.76,20.0,1737.41,4.1,1850,74.63
+SKU2131,And,Co-Ord Set,Grey,Winter,3436.94,20.0,2749.55,4.6,4433,74.5
+SKU1664,Biba,Dress,Grey,Winter,2451.35,20.0,1961.08,4.2,3299,74.39
+SKU1089,Nike,Jacket,Maroon,Monsoon,1406.42,10.0,1265.78,4.1,1120,74.34
+SKU1469,Mango,Kurta,Black,All-Season,2688.09,30.0,1881.66,3.9,47,74.18
+SKU1074,Urbanic,Jacket,Yellow,Monsoon,3263.12,30.0,2284.18,4.1,422,74.16
+SKU2026,H&M,Dress,Grey,Summer,1666.42,10.0,1499.78,4.2,3352,74.0
+SKU1306,Forever 21,Kurta,Olive,Winter,2778.55,10.0,2500.7,4.7,4915,73.99
+SKU1310,Only,Jeans,Grey,Summer,4384.41,40.0,2630.65,4.0,583,73.69
+SKU1183,Only,T-Shirt,Grey,Winter,2759.94,30.0,1931.96,3.9,4577,73.68
+SKU2117,Roadster,Formal Shirt,Beige,Winter,1436.54,0.0,1436.54,4.4,3308,73.63
+SKU1922,Bewakoof,Formal Shirt,Olive,Monsoon,1801.98,20.0,1441.58,3.9,3777,73.58
+SKU2194,Biba,Skirt,Maroon,Winter,2456.73,0.0,2456.73,4.9,4643,73.43
+SKU2180,Biba,Sneakers,Blue,Summer,1059.04,0.0,1059.04,4.2,48,73.41
+SKU1801,Vero Moda,T-Shirt,Grey,All-Season,663.48,0.0,663.48,4.0,2691,73.37
+SKU1932,H&M,Skirt,Red,All-Season,1080.57,20.0,864.46,3.6,4622,73.36
+SKU2007,Only,Sneakers,Olive,Monsoon,2521.31,30.0,1764.92,3.8,667,73.35
+SKU1887,Mango,Sneakers,Blue,Summer,2466.26,0.0,2466.26,4.9,2073,73.34
+SKU1773,Forever 21,Jacket,Black,Winter,4340.18,50.0,2170.09,3.5,1304,73.3
+SKU1072,Only,Sneakers,Red,Monsoon,1875.87,0.0,1875.87,4.6,2701,73.24
+SKU1644,Biba,Skirt,Olive,Summer,2829.22,30.0,1980.45,3.9,4532,73.2
+SKU1421,Biba,Sneakers,Beige,Summer,3824.73,40.0,2294.84,3.8,2075,73.05
+SKU2144,Vero Moda,Dress,Red,Summer,1312.65,0.0,1312.65,4.3,3314,72.87
+SKU1426,Vero Moda,Skirt,Olive,Winter,2899.65,20.0,2319.72,4.3,2255,72.8
+SKU1132,Adidas,Hoodie,White,Winter,4155.83,20.0,3324.66,4.8,3398,72.75
+SKU1926,H&M,T-Shirt,Pink,Summer,1933.02,0.0,1933.02,4.6,4632,72.67
+SKU1661,H&M,Skirt,Pink,Summer,2483.48,10.0,2235.13,4.5,4764,72.65
+SKU1551,Zara,Kurta,White,Summer,1156.92,0.0,1156.92,4.2,4065,72.43
+SKU2060,Zara,Co-Ord Set,Maroon,Winter,3270.62,40.0,1962.37,3.6,191,72.38
+SKU1636,Forever 21,Co-Ord Set,Pink,Monsoon,1571.36,0.0,1571.36,4.4,133,72.29
+SKU1112,Bewakoof,Skirt,Maroon,All-Season,2304.25,10.0,2073.83,4.4,932,72.26
+SKU1563,Bewakoof,Skirt,Pink,Winter,4105.09,30.0,2873.56,4.3,3393,72.26
+SKU1091,Puma,Formal Shirt,Yellow,Monsoon,4219.17,20.0,3375.34,4.8,3947,72.25
+SKU1809,Vero Moda,Co-Ord Set,Beige,Winter,4964.74,40.0,2978.84,4.1,1218,72.21
+SKU1632,Puma,Formal Shirt,Olive,All-Season,2448.04,30.0,1713.63,3.7,4612,71.86
+SKU1238,Only,Jeans,White,All-Season,2770.82,20.0,2216.66,4.2,3023,71.83
+SKU1819,Bewakoof,Co-Ord Set,Pink,Winter,1245.71,10.0,1121.14,3.9,4850,71.79
+SKU1500,Adidas,T-Shirt,Olive,All-Season,3629.22,30.0,2540.45,4.1,3135,71.6
+SKU1760,Puma,Sneakers,Blue,Winter,4727.56,50.0,2363.78,3.5,468,71.36
+SKU2034,Biba,T-Shirt,Beige,All-Season,2586.28,20.0,2069.02,4.1,820,71.31
+SKU1974,Mango,Dress,Yellow,Winter,3970.66,30.0,2779.46,4.2,1131,71.21
+SKU1594,Puma,Hoodie,Maroon,All-Season,1882.14,0.0,1882.14,4.5,819,71.18
+SKU1162,H&M,Dress,White,All-Season,2115.71,20.0,1692.57,3.9,2995,71.07
+SKU2097,Nike,Jeans,Blue,Monsoon,4562.48,30.0,3193.74,4.4,1759,71.06
+SKU1187,Nike,T-Shirt,Pink,All-Season,3497.1,40.0,2098.26,3.6,3107,71.02
+SKU1742,Nike,T-Shirt,Yellow,All-Season,3380.01,20.0,2704.01,4.4,1876,70.96
+SKU1907,Bewakoof,Jeans,Olive,Monsoon,2676.79,10.0,2409.11,4.5,2847,70.91
+SKU1529,H&M,Jeans,Grey,Winter,689.31,10.0,620.38,3.6,3293,70.8
+SKU1048,Only,Dress,Maroon,Summer,4570.87,40.0,2742.52,3.9,222,70.57
+SKU1375,Biba,Co-Ord Set,Beige,Summer,1164.17,10.0,1047.75,3.8,3321,70.52
+SKU1634,And,Formal Shirt,White,Monsoon,2552.81,0.0,2552.81,4.8,3912,70.47
+SKU1410,Bewakoof,Kurta,Olive,Winter,3791.93,30.0,2654.35,4.1,1075,70.46
+SKU2164,H&M,Formal Shirt,White,Monsoon,4593.59,40.0,2756.15,3.9,4357,70.44
+SKU1688,Mango,Jacket,Black,Winter,4926.61,50.0,2463.3,3.5,2272,70.37
+SKU2050,Adidas,T-Shirt,Yellow,Monsoon,1221.15,20.0,976.92,3.5,3659,70.23
+SKU1406,Zara,Dress,Blue,All-Season,3302.86,40.0,1981.72,3.5,584,70.18
+SKU1534,Vero Moda,Jeans,Maroon,Monsoon,4367.56,40.0,2620.54,3.8,3802,69.79
+SKU1795,Forever 21,Jacket,Pink,Summer,4757.29,30.0,3330.1,4.4,738,69.7
+SKU1173,Vero Moda,Dress,Red,All-Season,2595.26,10.0,2335.73,4.4,2353,69.64
+SKU1737,And,Kurta,Maroon,Monsoon,601.12,10.0,541.01,3.5,4905,69.59
+SKU1851,H&M,Jacket,Olive,Winter,3935.6,10.0,3542.04,5.0,4109,69.58
+SKU1116,Bewakoof,T-Shirt,Blue,Winter,4085.08,40.0,2451.05,3.7,2964,69.49
+SKU1963,Adidas,Dress,Grey,All-Season,478.43,0.0,478.43,3.7,2938,69.22
+SKU1842,H&M,T-Shirt,Maroon,All-Season,1087.7,10.0,978.93,3.7,1147,69.21
+SKU2122,Nike,Formal Shirt,Pink,Summer,3995.99,30.0,2797.19,4.1,4450,69.03
+SKU1231,Roadster,Hoodie,Yellow,All-Season,2281.02,30.0,1596.71,3.5,3636,69.03
+SKU1461,Nike,T-Shirt,Maroon,All-Season,3711.92,30.0,2598.34,4.0,4685,69.02
+SKU1979,Forever 21,Dress,Beige,Summer,1099.38,0.0,1099.38,4.0,3030,69.01
+SKU1498,Biba,Sneakers,Pink,Monsoon,4624.11,30.0,3236.88,4.3,2820,68.63
+SKU1601,Urbanic,Jacket,Pink,All-Season,2631.76,30.0,1842.23,3.6,303,68.58
+SKU1728,Nike,Formal Shirt,White,Monsoon,751.05,0.0,751.05,3.8,2670,68.49
+SKU2005,Roadster,Jeans,Beige,All-Season,3234.85,30.0,2264.39,3.8,4641,68.36
+SKU1359,Nike,Sneakers,Black,Winter,965.88,0.0,965.88,3.9,3228,68.34
+SKU2003,Roadster,Hoodie,Black,All-Season,3745.76,20.0,2996.61,4.4,887,68.03
+SKU1501,Zara,Jacket,Yellow,All-Season,4278.31,20.0,3422.65,4.6,1263,67.77
+SKU1393,Bewakoof,Jacket,Olive,Monsoon,2296.16,20.0,1836.93,3.8,79,67.63
+SKU1791,Bewakoof,Jeans,White,Winter,2820.79,20.0,2256.63,4.0,4010,67.43
+SKU1163,Urbanic,T-Shirt,Beige,Monsoon,4097.24,40.0,2458.34,3.6,4966,67.42
+SKU1401,Mango,Jacket,White,Monsoon,4097.8,40.0,2458.68,3.6,3120,67.41
+SKU1065,Roadster,Formal Shirt,Red,All-Season,4578.12,20.0,3662.5,4.7,3512,67.38
+SKU1889,Nike,Sneakers,White,Summer,1864.51,0.0,1864.51,4.3,1751,67.35
+SKU1676,Forever 21,T-Shirt,Pink,All-Season,853.22,10.0,767.9,3.5,2655,67.32
+SKU1850,H&M,Formal Shirt,Beige,Summer,3100.01,30.0,2170.01,3.7,306,67.3
+SKU1770,Nike,Dress,Yellow,Winter,889.3,0.0,889.3,3.8,3773,67.11
+SKU1265,H&M,Jacket,Beige,Summer,1113.89,10.0,1002.5,3.6,2572,66.97
+SKU1203,Zara,Jacket,Olive,Monsoon,4148.99,20.0,3319.19,4.5,647,66.81
+SKU1043,Biba,Skirt,Maroon,All-Season,4219.62,40.0,2531.77,3.6,1303,66.68
+SKU1227,Roadster,Skirt,White,Monsoon,3484.23,30.0,2438.96,3.8,2567,66.61
+SKU1991,Roadster,Kurta,Grey,All-Season,4064.03,30.0,2844.82,4.0,4451,66.55
+SKU1334,Vero Moda,Co-Ord Set,Maroon,All-Season,3695.63,20.0,2956.5,4.3,934,66.43
+SKU1135,H&M,Kurta,Olive,Monsoon,959.5,10.0,863.55,3.5,3744,66.36
+SKU1668,Zara,Co-Ord Set,Red,Summer,4708.38,20.0,3766.7,4.7,1766,66.33
+SKU2054,H&M,Jacket,Maroon,Monsoon,4975.62,40.0,2985.37,3.8,1996,66.15
+SKU1897,Mango,Hoodie,Pink,Winter,4653.35,40.0,2792.01,3.7,1034,66.08
+SKU1951,Only,Jeans,Maroon,Monsoon,2017.23,20.0,1613.78,3.6,474,65.86
+SKU1143,Mango,Hoodie,Beige,All-Season,2016.12,0.0,2016.12,4.3,2888,65.84
+SKU1233,Adidas,Sneakers,Yellow,Summer,3895.02,30.0,2726.51,3.9,3482,65.73
+SKU1430,Urbanic,Jacket,White,All-Season,1280.44,0.0,1280.44,3.9,3183,65.2
+SKU1619,Urbanic,Skirt,Beige,Monsoon,4881.24,30.0,3416.87,4.2,3141,64.83
+SKU2083,Nike,Jeans,Olive,All-Season,934.47,0.0,934.47,3.7,818,64.66
+SKU1494,Bewakoof,Jacket,Maroon,Winter,2919.57,30.0,2043.7,3.5,2791,64.56
+SKU1523,Only,Jeans,Maroon,Monsoon,1932.82,20.0,1546.26,3.5,742,64.54
+SKU1503,Mango,Dress,Grey,All-Season,2938.43,30.0,2056.9,3.5,1849,64.43
+SKU1711,Biba,Co-Ord Set,Black,Winter,1408.82,10.0,1267.94,3.6,1920,64.32
+SKU2151,Zara,T-Shirt,Yellow,All-Season,2970.38,0.0,2970.38,4.7,3904,64.3
+SKU1444,Forever 21,Dress,Beige,All-Season,2971.76,30.0,2080.23,3.5,4680,64.2
+SKU1418,Puma,Hoodie,Pink,All-Season,4989.63,30.0,3492.74,4.2,259,64.07
+SKU1390,Mango,Sneakers,Blue,Monsoon,1439.96,10.0,1295.96,3.6,3309,64.04
+SKU1443,Bewakoof,Kurta,Red,Winter,1007.07,0.0,1007.07,3.7,403,63.93
+SKU1439,Levis,Jeans,Maroon,All-Season,3016.7,10.0,2715.03,4.3,2659,63.85
+SKU1886,Zara,Jacket,Grey,All-Season,4460.14,30.0,3122.1,4.0,2225,63.78
+SKU1303,Bewakoof,Formal Shirt,Black,Summer,2579.85,10.0,2321.86,4.1,4924,63.78
+SKU2104,Roadster,Dress,Olive,Monsoon,1234.3,0.0,1234.3,3.8,323,63.66
+SKU1452,Forever 21,Dress,Black,Monsoon,3546.83,20.0,2837.46,4.1,1934,63.63
+SKU1123,Forever 21,Skirt,Grey,Winter,2072.93,20.0,1658.34,3.5,2771,63.42
+SKU1428,Mango,Sneakers,Maroon,Winter,1874.19,0.0,1874.19,4.1,4415,63.26
+SKU2033,Zara,Skirt,Beige,All-Season,3098.38,20.0,2478.7,3.9,4820,63.21
+SKU1666,Vero Moda,Formal Shirt,White,Winter,2493.99,0.0,2493.99,4.4,4579,63.06
+SKU2012,Forever 21,Jeans,Yellow,All-Season,1921.76,0.0,1921.76,4.1,4869,62.78
+SKU1579,Adidas,Sneakers,Red,All-Season,1384.66,10.0,1246.19,3.5,2574,62.54
+SKU1734,H&M,T-Shirt,Red,Summer,4949.74,20.0,3959.79,4.6,517,62.4
+SKU2103,Roadster,Co-Ord Set,Blue,All-Season,3405.62,10.0,3065.06,4.4,4705,62.35
+SKU2183,Forever 21,Dress,Red,Monsoon,4455.91,20.0,3564.73,4.4,3536,62.35
+SKU1274,Roadster,T-Shirt,Pink,Summer,4118.81,30.0,2883.17,3.8,4784,62.17
+SKU1229,Zara,Sneakers,Beige,All-Season,2322.9,10.0,2090.61,3.9,3465,62.09
+SKU1609,Nike,Jacket,Pink,Winter,4352.32,10.0,3917.09,4.8,2598,61.83
+SKU1810,Bewakoof,T-Shirt,Maroon,Winter,817.3,0.0,817.3,3.5,4300,61.83
+SKU1599,Biba,Hoodie,Maroon,Summer,2801.44,20.0,2241.15,3.7,1969,61.59
+SKU1598,Zara,T-Shirt,Yellow,Winter,3052.48,10.0,2747.23,4.2,3828,61.53
+SKU1258,Puma,Jacket,Red,Monsoon,1646.79,0.0,1646.79,3.9,978,61.53
+SKU1820,Forever 21,Formal Shirt,Pink,Monsoon,4320.39,20.0,3456.31,4.3,4523,61.44
+SKU1062,Levis,T-Shirt,Yellow,Winter,1660.83,0.0,1660.83,3.9,1034,61.39
+SKU1868,Levis,Formal Shirt,White,All-Season,3383.99,30.0,2368.79,3.5,2881,61.31
+SKU1248,Roadster,Formal Shirt,Maroon,Winter,3839.08,20.0,3071.26,4.1,1960,61.29
+SKU2045,And,Formal Shirt,White,All-Season,4107.65,20.0,3286.12,4.2,830,61.14
+SKU1209,Nike,Sneakers,Black,Monsoon,4003.32,30.0,2802.32,3.7,2914,60.98
+SKU1368,Mango,Dress,Yellow,Winter,2451.61,10.0,2206.45,3.9,4635,60.94
+SKU1518,Levis,Skirt,White,All-Season,4643.4,20.0,3714.72,4.4,2649,60.85
+SKU1038,Mango,Kurta,Red,Summer,1796.82,10.0,1617.14,3.6,4751,60.83
+SKU2154,Puma,T-Shirt,Maroon,Summer,3674.72,20.0,2939.78,4.0,581,60.6
+SKU1775,Nike,Co-Ord Set,Black,Monsoon,2503.65,10.0,2253.29,3.9,3619,60.47
+SKU1649,Biba,Formal Shirt,Black,Summer,1952.58,0.0,1952.58,4.0,988,60.47
+SKU1219,Bewakoof,Hoodie,White,All-Season,4956.22,30.0,3469.35,4.0,4377,60.31
+SKU1798,Forever 21,Formal Shirt,Maroon,Summer,3192.92,10.0,2873.63,4.2,4288,60.26
+SKU1506,H&M,Formal Shirt,Maroon,Monsoon,3218.98,20.0,2575.18,3.8,88,60.25
+SKU1353,And,Jacket,Blue,Summer,4760.77,10.0,4284.69,4.9,4407,60.15
+SKU1314,Urbanic,Formal Shirt,Olive,Monsoon,4769.32,20.0,3815.46,4.4,4350,59.85
+SKU1901,Forever 21,Skirt,Beige,Summer,4603.98,10.0,4143.58,4.8,3158,59.56
+SKU1257,Urbanic,Skirt,Blue,All-Season,4632.04,10.0,4168.84,4.8,289,59.31
+SKU1412,Mango,Hoodie,Yellow,Monsoon,4580.05,30.0,3206.03,3.8,733,58.94
+SKU1747,Urbanic,Hoodie,Red,Summer,3889.75,20.0,3111.8,4.0,1251,58.88
+SKU1720,Zara,Dress,Blue,All-Season,4907.79,10.0,4417.01,4.9,521,58.83
+SKU1338,Bewakoof,Co-Ord Set,Grey,Winter,3581.36,10.0,3223.22,4.3,1051,58.77
+SKU2038,Puma,T-Shirt,White,Monsoon,4046.17,10.0,3641.55,4.5,3757,58.58
+SKU1223,Zara,Sneakers,Pink,Monsoon,2493.53,10.0,2244.18,3.8,2853,58.56
+SKU1943,Puma,Co-Ord Set,Yellow,Winter,4086.34,30.0,2860.44,3.6,3081,58.4
+SKU1090,Only,T-Shirt,Maroon,Monsoon,3767.85,0.0,3767.85,4.8,2676,58.32
+SKU2041,Nike,Jeans,Red,Winter,1863.44,10.0,1677.1,3.5,2679,58.23
+SKU1686,Zara,T-Shirt,White,All-Season,2103.21,10.0,1892.89,3.6,1814,58.07
+SKU2101,Mango,Jacket,White,All-Season,4160.68,30.0,2912.48,3.6,1246,57.88
+SKU1898,Biba,Hoodie,Grey,Summer,2799.11,10.0,2519.2,3.9,4014,57.81
+SKU1335,Nike,Kurta,Yellow,Monsoon,3628.64,0.0,3628.64,4.7,4033,57.71
+SKU1286,Bewakoof,Dress,Black,Summer,1922.04,10.0,1729.84,3.5,4539,57.7
+SKU1545,Bewakoof,Dress,Blue,All-Season,3636.95,0.0,3636.95,4.7,579,57.63
+SKU1484,Roadster,Sneakers,Grey,Monsoon,3966.45,10.0,3569.8,4.4,804,57.3
+SKU1753,Bewakoof,Co-Ord Set,White,Winter,4428.63,10.0,3985.77,4.6,2071,57.14
+SKU2062,Zara,Hoodie,Yellow,All-Season,2018.31,10.0,1816.48,3.5,4909,56.84
+SKU2028,Forever 21,Jeans,Beige,Monsoon,3118.28,0.0,3118.28,4.4,85,56.82
+SKU1920,Roadster,Hoodie,Maroon,Summer,1736.69,0.0,1736.69,3.7,2905,56.63
+SKU1986,And,Jeans,Blue,Summer,3822.68,10.0,3440.41,4.3,2679,56.6
+SKU1787,Zara,Co-Ord Set,Red,Summer,2928.3,20.0,2342.64,3.5,1337,56.57
+SKU1305,Urbanic,Formal Shirt,Blue,Monsoon,1771.99,0.0,1771.99,3.7,2754,56.28
+SKU1364,Adidas,Sneakers,Beige,Monsoon,4437.27,30.0,3106.09,3.6,2502,55.94
+SKU1044,And,Kurta,Yellow,All-Season,3282.04,20.0,2625.63,3.6,2340,55.74
+SKU2113,Roadster,Kurta,Red,Monsoon,4580.31,20.0,3664.25,4.1,233,55.36
+SKU1910,Puma,Skirt,Maroon,Summer,2645.21,10.0,2380.69,3.7,370,55.19
+SKU1921,Biba,Jeans,Pink,Monsoon,3145.38,10.0,2830.84,3.9,2641,54.69
+SKU2124,Biba,Formal Shirt,Olive,Winter,4263.06,10.0,3836.75,4.4,1627,54.63
+SKU1946,Forever 21,Jeans,Maroon,All-Season,4708.86,20.0,3767.09,4.1,264,54.33
+SKU1222,Puma,Hoodie,Grey,Winter,1985.85,0.0,1985.85,3.7,2420,54.14
+SKU2125,Adidas,Formal Shirt,Yellow,Summer,4080.2,20.0,3264.16,3.8,4348,53.36
+SKU2021,Puma,Jeans,Blue,Monsoon,2711.85,0.0,2711.85,4.0,274,52.88
+SKU1432,Biba,Hoodie,Blue,Summer,4187.76,20.0,3350.21,3.8,576,52.5
+SKU1136,And,Formal Shirt,Maroon,Winter,3704.3,20.0,2963.44,3.6,2890,52.37
+SKU1513,Vero Moda,Hoodie,Black,Monsoon,4664.22,30.0,3264.95,3.5,2586,52.35
+SKU1602,Vero Moda,Dress,Black,All-Season,3997.28,0.0,3997.28,4.6,687,52.03
+SKU1462,Vero Moda,Jeans,Grey,All-Season,4203.25,0.0,4203.25,4.7,2012,51.97
+SKU1105,Puma,Skirt,Red,All-Season,3755.22,20.0,3004.18,3.6,2088,51.96
+SKU1743,Biba,Jacket,Olive,All-Season,2797.77,10.0,2517.99,3.6,49,51.82
+SKU1291,Adidas,Formal Shirt,Red,All-Season,3033.49,10.0,2730.14,3.7,646,51.7
+SKU1245,Adidas,Dress,Beige,Summer,2839.34,0.0,2839.34,4.0,1344,51.61
+SKU1158,Bewakoof,Co-Ord Set,Red,Winter,4827.35,10.0,4344.62,4.5,4732,51.55
+SKU1168,Bewakoof,Sneakers,Beige,All-Season,4594.77,20.0,3675.82,3.9,2165,51.24
+SKU1330,Biba,Co-Ord Set,Black,Summer,3358.63,10.0,3022.77,3.8,3844,50.77
+SKU1482,Mango,Jeans,Pink,Monsoon,3664.26,20.0,2931.41,3.5,4071,50.69
+SKU2112,Zara,Hoodie,Beige,Winter,4705.94,10.0,4235.35,4.4,1487,50.65
+SKU1505,Forever 21,Jeans,Beige,Monsoon,2537.71,0.0,2537.71,3.8,4997,50.62
+SKU1890,Bewakoof,Kurta,Maroon,Winter,2824.41,0.0,2824.41,3.9,4979,49.76
+SKU1613,And,Dress,Maroon,All-Season,4045.15,20.0,3236.12,3.6,1093,49.64
+SKU1262,Forever 21,Kurta,White,Winter,2836.15,10.0,2552.54,3.5,490,49.47
+SKU2148,Biba,Hoodie,Pink,Monsoon,4094.76,20.0,3275.81,3.6,2986,49.24
+SKU2084,Mango,Hoodie,White,All-Season,3975.02,10.0,3577.52,4.0,3737,49.22
+SKU2036,Only,Hoodie,Pink,Summer,4864.52,10.0,4378.07,4.4,4153,49.22
+SKU1215,Bewakoof,Sneakers,Maroon,All-Season,4097.75,20.0,3278.2,3.6,3527,49.22
+SKU1076,Adidas,Jeans,Grey,Summer,3378.46,10.0,3040.61,3.7,2390,48.59
+SKU1663,Puma,Formal Shirt,Maroon,Winter,4184.08,20.0,3347.26,3.6,1200,48.53
+SKU1968,Mango,Sneakers,Blue,All-Season,4527.0,20.0,3621.6,3.7,2408,47.78
+SKU1024,Mango,Co-Ord Set,Yellow,Monsoon,4698.65,10.0,4228.78,4.2,2573,46.71
+SKU1840,Biba,Hoodie,Olive,Winter,4206.98,0.0,4206.98,4.4,960,45.93
+SKU1094,Roadster,Skirt,Black,Monsoon,4609.18,10.0,4148.26,4.1,3803,45.52
+SKU1682,H&M,Dress,Yellow,Monsoon,4439.08,10.0,3995.17,4.0,2607,45.05
+SKU1478,Levis,Kurta,Yellow,Monsoon,3927.35,0.0,3927.35,4.2,2796,44.73
+SKU1904,Roadster,Dress,Red,All-Season,2735.46,0.0,2735.46,3.6,3029,44.65
+SKU1509,Zara,Co-Ord Set,Pink,Monsoon,4345.15,0.0,4345.15,4.4,4946,44.55
+SKU1295,Nike,Jeans,Pink,Monsoon,4437.31,20.0,3549.85,3.5,3977,44.5
+SKU1952,Nike,Formal Shirt,Maroon,Summer,4957.32,0.0,4957.32,4.7,2047,44.43
+SKU1808,Roadster,Kurta,White,Monsoon,4972.58,10.0,4475.32,4.2,3515,44.25
+SKU1794,Biba,Sneakers,Olive,All-Season,3650.22,10.0,3285.2,3.6,2899,44.15
+SKU1860,Levis,Skirt,Black,Winter,4762.25,10.0,4286.03,4.1,2622,44.14
+SKU1723,Zara,Jeans,Beige,All-Season,2598.96,0.0,2598.96,3.5,1691,44.01
+SKU2159,Mango,Co-Ord Set,Blue,Summer,4795.27,10.0,4315.74,4.1,4081,43.84
+SKU1023,H&M,Dress,White,Summer,3504.98,10.0,3154.48,3.5,4666,43.46
+SKU1894,Puma,Hoodie,White,Monsoon,2670.57,0.0,2670.57,3.5,3723,43.29
+SKU1554,Mango,Dress,Pink,Winter,4029.63,10.0,3626.67,3.7,2360,42.73
+SKU1996,Puma,Dress,Maroon,Summer,4770.28,0.0,4770.28,4.5,739,42.3
+SKU1546,Nike,Kurta,Maroon,Winter,4022.38,0.0,4022.38,4.1,2750,41.78
+SKU1749,Only,Hoodie,Red,All-Season,4863.27,20.0,3890.62,3.5,2521,41.09
+SKU2111,Vero Moda,Dress,Beige,All-Season,3905.52,0.0,3905.52,4.0,1718,40.94
+SKU1950,Vero Moda,Co-Ord Set,Red,Summer,2940.48,0.0,2940.48,3.5,3090,40.6
+SKU1161,Mango,Formal Shirt,Olive,Monsoon,2943.83,0.0,2943.83,3.5,3689,40.56
+SKU1057,Bewakoof,Sneakers,Black,All-Season,4313.38,10.0,3882.04,3.7,2906,40.18
+SKU1953,Urbanic,Sneakers,Blue,Winter,4990.21,10.0,4491.19,4.0,3921,40.09
+SKU1527,And,Formal Shirt,Beige,Winter,4653.15,0.0,4653.15,4.3,4005,39.47
+SKU2046,Zara,Co-Ord Set,Yellow,All-Season,3555.97,0.0,3555.97,3.7,3290,38.44
+SKU1865,Forever 21,Sneakers,Black,Winter,4522.91,10.0,4070.62,3.7,2592,38.29
+SKU1722,Levis,Jacket,Olive,Monsoon,3433.02,0.0,3433.02,3.6,3019,37.67
+SKU1660,Levis,Jacket,Pink,All-Season,4938.99,0.0,4938.99,4.3,3055,36.61
+SKU2197,Biba,T-Shirt,Grey,Monsoon,4565.76,0.0,4565.76,4.1,2511,36.34
+SKU1651,Adidas,Jeans,White,Summer,4187.61,0.0,4187.61,3.8,1368,34.12
+SKU1045,Zara,Jacket,Red,Winter,3648.53,0.0,3648.53,3.5,2710,33.51
+SKU1127,Zara,Dress,White,Monsoon,4283.37,0.0,4283.37,3.8,4421,33.17
+SKU1496,H&M,Skirt,Beige,Monsoon,4796.06,0.0,4796.06,4.0,4885,32.04
+SKU1372,Puma,Sneakers,Grey,All-Season,4479.99,0.0,4479.99,3.8,1138,31.2
+SKU1916,Urbanic,Co-Ord Set,Yellow,Monsoon,4236.19,0.0,4236.19,3.6,3727,29.64
+SKU1052,Mango,Co-Ord Set,White,Winter,4836.72,0.0,4836.72,3.9,2555,29.63
+SKU1825,Roadster,Hoodie,Blue,Winter,4548.97,0.0,4548.97,3.7,3763,28.51
+SKU1234,Urbanic,Skirt,Pink,Monsoon,4365.12,0.0,4365.12,3.6,961,28.35
+SKU1042,Only,T-Shirt,Yellow,Winter,4619.36,0.0,4619.36,3.6,3806,25.81
